@@ -2,9 +2,7 @@
 
 <h2>📜 Certifications:</h2>
  
-  - [Certification Image](![Qualys Vulnerabilty Management Certification PNG](https://github.com/KyleGoins4058/KyleGoins4058/assets/141758361/e15d6de7-cc3e-4d51-97cf-5943ac2170f0)
-)
-
+[![Qualys Vulnerabilty Management Certification](https://github.com/KyleGoins4058/KyleGoins4058/assets/141758361/f717fd4a-eca7-4ded-8c74-7b0d9c226d6f)](https://github.com/KyleGoins4058/KyleGoins4058/raw/main/assets/141758361/e15d6de7-cc3e-4d51-97cf-5943ac2170f0.png)](https://github.com/KyleGoins4058/KyleGoins4058/raw/main/assets/141758361/e15d6de7-cc3e-4d51-97cf-5943ac2170f0.png)
   - [Qualys Vulnerability Management Certification](Link)
   - [Qualys Scanning Strategies and Best Practices Certification](Link)
   - [Qualys Vulnerability Management Detection and Response Certification](Link)
