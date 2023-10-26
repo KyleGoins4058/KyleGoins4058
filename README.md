@@ -2,7 +2,7 @@
 
 <h2>📜 Certifications:</h2>
  
-<a href="#" id="certification-link">Click to view certification</a>
+<a href="#" id="certification-link">Qualys Vulnerability Management Certification</a>
 
 <div id="certification-image" style="display:none;">
     <img src="https://github.com/KyleGoins4058/KyleGoins4058/raw/main/assets/141758361/e15d6de7-cc3e-4d51-97cf-5943ac2170f0.png" alt="Qualys Vulnerability Management Certification">
@@ -14,6 +14,7 @@
         document.getElementById("certification-image").style.display = "block";
     });
 </script>
+
 
 
   - [Qualys Vulnerability Management Certification](Link)
