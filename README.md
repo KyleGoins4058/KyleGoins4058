@@ -2,7 +2,7 @@
 
 <h2>📜 Certifications:</h2>
  
-  - [Qualys PCI Compliance Certification]([![Certification Image](Qualys Vulnerabilty Management Certification.png)](Qualys Vulnerabilty Management Certification.png))
+  - [Qualys PCI Compliance Certification]([![Certification Image](Qualys PCI Compliance Certification PNG.png))
   - [Qualys Vulnerability Management Certification](Link)
   - [Qualys Scanning Strategies and Best Practices Certification](Link)
   - [Qualys Vulnerability Management Detection and Response Certification](Link)
