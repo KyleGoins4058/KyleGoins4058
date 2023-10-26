@@ -5,7 +5,7 @@
 <a href="#" id="certification-link">Qualys Vulnerability Management Certification</a>
 
 <div id="certification-image" style="display:none;">
-    <img src="https://github.com/KyleGoins4058/KyleGoins4058/raw/main/assets/141758361/e15d6de7-cc3e-4d51-97cf-5943ac2170f0.png" alt="Qualys Vulnerability Management Certification">
+    <img src="[https://github.com/KyleGoins4058/KyleGoins4058/raw/main/assets/141758361/e15d6de7-cc3e-4d51-97cf-5943ac2170f0.png](https://github.com/KyleGoins4058/KyleGoins4058/blob/main/Qualys%20Vulnerabilty%20Management%20Certification%20PNG.png)" alt="Qualys Vulnerability Management Certification">
 </div>
 
 <script>
